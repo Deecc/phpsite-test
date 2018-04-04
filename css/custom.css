@@ -1,0 +1,25 @@
+body {
+    
+}
+
+.header {
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    background-color: gray;
+}
+
+.header h2 {
+    padding-top: 10%;
+}
+
+.header p {
+    padding-top: 17%px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.content {
+    padding-top: 8%;
+    text-align: justify;
+}

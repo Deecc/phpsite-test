@@ -19,7 +19,7 @@
 <body class="container">
 
     <div class="header"> <?php include ('header.php'); ?>  </div>   
-    <div class="container"> <?php include ('content.php'); ?>  </div>
+    <div class="container content"> <?php include ('content.php'); ?>  </div>
     <div class="footer"> <?php include ('footer.php'); ?>  </div>
 
     <script src="js/bootstrap.min.js"></script>
